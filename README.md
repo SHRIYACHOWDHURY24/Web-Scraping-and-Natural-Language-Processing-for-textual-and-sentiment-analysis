@@ -1,4 +1,5 @@
 # Web-Scraping-and-Natural-Language-Processing-for-textual-and-sentiment-analysis
+It scrapes web content from given URLs, processes the text to clean and extract meaningful data, and performs text analysis tasks such as stopword removal, text statistics, and content transformation. The project involves cleaning the data and using different stopword lists to refine the text. The processed content is then analyzed for readability and other textual metrics.
 
 # Project Description: 
 It scrapes web content from given URLs, processes the text to clean and extract meaningful data, and performs text analysis tasks such as stopword removal, text statistics, and content transformation. The project involves cleaning the data and using different stopword lists to refine the text. The processed content is then analyzed for readability and other textual metrics.
